@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Календар УПЦ</string>
+    <string name="nav_today">Сьогодні</string>
+    <string name="nav_calendar">Календар</string>
+    <string name="nav_feasts">Свята і пости</string>
+    <string name="nav_reminders">Нагадування</string>
+    <string name="notification_channel_name">Церковні нагадування</string>
+    <string name="notification_channel_desc">Нагадування про православні свята, початок постів та поминальні дні</string>
+</resources>

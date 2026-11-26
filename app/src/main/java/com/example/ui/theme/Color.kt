@@ -1,0 +1,50 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Liturgical Primary & Accent Palette (Byzantine Crimson, Warm Gold, Parchment)
+val ByzantineCrimson = Color(0xFF7B1E26)
+val ByzantineCrimsonLight = Color(0xFFA43841)
+val ByzantineCrimsonDark = Color(0xFF561117)
+val CrimsonContainerLight = Color(0xFFF9E4E6)
+val OnCrimsonContainerLight = Color(0xFF4A0D13)
+
+val LiturgicalGold = Color(0xFFB38424)
+val LiturgicalGoldBright = Color(0xFFD9AE4E)
+val GoldContainerLight = Color(0xFFF7ECD1)
+val OnGoldContainerLight = Color(0xFF4D3604)
+
+val ParchmentBackground = Color(0xFFFBF8F1)
+val ParchmentSurface = Color(0xFFF6F0E4)
+val ParchmentCard = Color(0xFFFFFDF9)
+val ParchmentVariant = Color(0xFFEDE4D3)
+val InkPrimary = Color(0xFF211A16)
+val InkSecondary = Color(0xFF5E524B)
+val OutlineWarm = Color(0xFFD6CBB8)
+
+// Liturgical Semantic Colors
+val LentPurple = Color(0xFF5E3A6E)
+val LentPurpleContainer = Color(0xFFEEE4F4)
+val FastFreeGreen = Color(0xFF2B6041)
+val FastFreeGreenContainer = Color(0xFFE0EFE5)
+val FastingAmber = Color(0xFF9E5A14)
+val FastingAmberContainer = Color(0xFFFAEBD8)
+
+// Dark Theme Palette (Warm Evening Candlelight)
+val DarkBackground = Color(0xFF161210)
+val DarkSurface = Color(0xFF201A17)
+val DarkCard = Color(0xFF28211D)
+val DarkSurfaceVariant = Color(0xFF352C27)
+val DarkInkPrimary = Color(0xFFF4EDE4)
+val DarkInkSecondary = Color(0xFFC9BCB0)
+val DarkOutline = Color(0xFF4C4039)
+val DarkCrimson = Color(0xFFE48990)
+val DarkCrimsonContainer = Color(0xFF5D1820)
+val DarkGold = Color(0xFFE5BF68)
+val DarkGoldContainer = Color(0xFF4A360B)
+val DarkLentPurple = Color(0xFFCBA6DB)
+val DarkLentPurpleContainer = Color(0xFF40254D)
+val DarkFastFreeGreen = Color(0xFF8BD0A5)
+val DarkFastFreeGreenContainer = Color(0xFF1A3E29)
+val DarkFastingAmber = Color(0xFFF0B473)
+val DarkFastingAmberContainer = Color(0xFF4B2B08)
